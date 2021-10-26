@@ -12,6 +12,7 @@ class Test_VisitPage(BrowserSetup):
     def __init__(self):
         browserSetup = BrowserSetup()
         browserSetup.set_up()
+        #changes
 
     # driver = webdriver.Chrome(executable_path="D:\Selenium\chromedriver.exe")
     # baseURL = "https://paulcamper.com/rent-camper/"
