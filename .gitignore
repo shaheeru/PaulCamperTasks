@@ -1,0 +1,4 @@
+.idea
+Common/BrowserSetup.py
+*.pyc
+Tests/Test_SearchBodyBoxVan.py
